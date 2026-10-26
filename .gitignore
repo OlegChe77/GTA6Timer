@@ -1,0 +1,19 @@
+# Кэш новостей и данные пользователя
+news_cache*.txt
+
+# Материалы Rockstar: программа скачивает их сама при первом запуске
+images/
+images.part/
+logo.png
+
+# Сборка (exe выкладывается в релизы)
+*.exe
+*.pdb
+*.zip
+release/
+
+# Настройки редакторов
+.vs/
+.vscode/
+Thumbs.db
+desktop.ini
