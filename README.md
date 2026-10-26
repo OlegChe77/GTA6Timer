@@ -1,8 +1,9 @@
 <p align="center"><b>Русский</b> | <a href="README.en.md">English</a></p>
 
+<p align="center"><a href="https://www.donationalerts.com/r/olegche"><img src="https://img.shields.io/badge/%D0%9F%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D1%82%D1%8C%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-DonationAlerts-F57D07?style=for-the-badge" height="48" alt="Поддержать проект на DonationAlerts"></a></p>
+
 # GTA VI Countdown
 
-[![Донат](https://img.shields.io/badge/%D0%94%D0%BE%D0%BD%D0%B0%D1%82-DonationAlerts-F57D07)](https://www.donationalerts.com/r/olegche)
 [![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?logo=windows&logoColor=white)](#как-скачать-и-запустить)
 [![.NET Framework 4](https://img.shields.io/badge/.NET%20Framework-4.x-512BD4?logo=dotnet&logoColor=white)](#как-собрать)
 [![License: MIT](https://img.shields.io/github/license/OlegChe77/GTA6Timer)](LICENSE)
