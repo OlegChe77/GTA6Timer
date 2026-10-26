@@ -2,6 +2,7 @@
 
 # GTA VI Countdown
 
+[![Донат](https://img.shields.io/badge/%D0%94%D0%BE%D0%BD%D0%B0%D1%82-DonationAlerts-F57D07)](https://www.donationalerts.com/r/olegche)
 [![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?logo=windows&logoColor=white)](#как-скачать-и-запустить)
 [![.NET Framework 4](https://img.shields.io/badge/.NET%20Framework-4.x-512BD4?logo=dotnet&logoColor=white)](#как-собрать)
 [![License: MIT](https://img.shields.io/github/license/OlegChe77/GTA6Timer)](LICENSE)
@@ -65,6 +66,10 @@ powershell -ExecutionPolicy Bypass -File build.ps1
 ```
 
 Ключи запуска для проверки: `--test-show` (сразу показать фейерверк), `--mini` (запуститься в мини-режиме).
+
+## Помощь проекту
+
+Если таймер вам понравился, поддержать автора можно на [DonationAlerts](https://www.donationalerts.com/r/olegche). Спасибо!
 
 ## Права на материалы
 

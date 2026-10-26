@@ -2,6 +2,7 @@
 
 # GTA VI Countdown
 
+[![Donate](https://img.shields.io/badge/Donate-DonationAlerts-F57D07)](https://www.donationalerts.com/r/olegche)
 [![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?logo=windows&logoColor=white)](#download-and-run)
 [![.NET Framework 4](https://img.shields.io/badge/.NET%20Framework-4.x-512BD4?logo=dotnet&logoColor=white)](#building)
 [![License: MIT](https://img.shields.io/github/license/OlegChe77/GTA6Timer)](LICENSE)
@@ -65,6 +66,10 @@ The script draws the `app.ico` icon and builds `GTA6Timer.exe` from `src/GTA6Tim
 ```
 
 Command-line switches for testing: `--test-show` (play the fireworks right away), `--mini` (start in mini mode).
+
+## Support the project
+
+If you enjoy the timer, you can support the author on [DonationAlerts](https://www.donationalerts.com/r/olegche). Thank you!
 
 ## Copyright
 
